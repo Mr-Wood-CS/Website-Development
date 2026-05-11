@@ -156,6 +156,23 @@ li::marker {
   box-shadow: 0 14px 32px rgba(31, 41, 51, 0.09);
 }
 
+.slide .list-group {
+  max-width: 980px;
+}
+
+.slide .list-group-item {
+  font-size: clamp(28px, 3.6vw, 48px);
+  line-height: 1.22;
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.62);
+  border-color: var(--line);
+}
+
+.slide .card.border-0 {
+  border: 2px solid var(--line) !important;
+  background: rgba(255, 255, 255, 0.78);
+}
+
 .image-row {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(260px, 0.7fr);

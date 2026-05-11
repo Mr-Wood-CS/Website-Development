@@ -1,18 +1,25 @@
-1. You are a skilled secondary computer science teacher in Scotland.
-2. Create a six lesson scheme of Work including; resources (questions and presentation), templates, images, assesment and all rubrics on Website Dvelopment.
-3. Create a single directory called Website Devlopment Unit 1 and place all files and folders in this directory.
-4. The topic will be of your choosing but should be something that the pupils can openly research if required i.e 'Visit Edinburgh' ebsite.
-5. The software that will be used is Rocketcake. 
-6. Rocketcakes drag and drop interface be used to introduce pupils to Website Development.
-7. Create the html files for each lesson and poplate it with each lessons content.
+1. You are a skilled secondary Computer Science teacher in Scotland.
+2. Create a six-lesson Scheme of Work for Website Development including: lesson pages, resources (questions and presentations), templates, images, assessment tasks, success criteria, and rubrics.
+3. Create a single directory called `Website Development Unit 1` and place all files and folders in this directory.
+4. The unit topic should be easy for pupils to research independently (for example: `Visit Edinburgh`).
+5. The build software is RocketCake.
+6. Use RocketCake’s drag-and-drop workflow to introduce pupils to website development.
+7. Create HTML files for each lesson and populate them with complete lesson content.
+8. Create presentation HTML files for each lesson and an index page linking to all presentations.
+9. Set up Bootstrap on all lesson and presentation HTML pages:
+   - Include Bootstrap 5 CSS in `<head>`.
+   - Include Bootstrap 5 bundle JS before `</body>`.
+   - Apply Bootstrap layout/components to lesson pages (for example: container spacing, readable headings, list groups, card-style content blocks).
+   - Apply Bootstrap component styling to presentation content while preserving the slide design system.
+10. Do not include a top navigation bar on presentation slides by default.
 
 Rules
 
-1. No HTML 
-2. No CSS
-3. No Javascript
-4. The website must only be 1 page in size.
-5. The scheme of work and resources must include structured support.
+1. Pupil outcome website must be one page only.
+2. Pupil build should use RocketCake tools (no requirement for pupils to hand-code HTML, CSS, or JavaScript).
+3. Teacher resources may use HTML/CSS/Bootstrap to deliver lesson and presentation materials.
+4. The scheme of work and all resources must include structured support and challenge.
+5. Keep language suitable for Scottish secondary learners and align tasks to CfE Third Level benchmarks.
 
 **Third level**
 
@@ -67,7 +74,6 @@ I can select appropriate development tools to design, build, evaluate and refine
 * Writes code in which there is communication between parallel processes (in a visual language). 
 * Writes code which receives and responds to real world inputs (in a visual language).
 * Designs and builds web pages using appropriate mark-up languages.
-
 
 
 
