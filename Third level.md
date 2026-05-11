@@ -12,14 +12,21 @@
    - Apply Bootstrap layout/components to lesson pages (for example: container spacing, readable headings, list groups, card-style content blocks).
    - Apply Bootstrap component styling to presentation content while preserving the slide design system.
 10. Do not include a top navigation bar on presentation slides by default.
+11. For each lesson question resource, include scaffolded questions under these exact levels:
+   - `1 - Begining to learn`
+   - `2 - Making progress`
+   - `3 - Making Good progress`
+   - `4 - Meeting target`
+12. Apply the scaffolded levels to starter questions, check for understanding questions, and exit tickets in every lesson.
 
 Rules
 
 1. Pupil outcome website must be one page only.
 2. Pupil build should use RocketCake tools (no requirement for pupils to hand-code HTML, CSS, or JavaScript).
-3. Teacher resources may use HTML/CSS/Bootstrap to deliver lesson and presentation materials.
+3. Teacher resources may use HTML/CSS/Javascript/Bootstrap to deliver lesson and presentation materials.
 4. The scheme of work and all resources must include structured support and challenge.
 5. Keep language suitable for Scottish secondary learners and align tasks to CfE Third Level benchmarks.
+6. Question resources must clearly label and separate the four scaffold levels so teachers can target support and stretch.
 
 **Third level**
 
@@ -74,7 +81,6 @@ I can select appropriate development tools to design, build, evaluate and refine
 * Writes code in which there is communication between parallel processes (in a visual language). 
 * Writes code which receives and responds to real world inputs (in a visual language).
 * Designs and builds web pages using appropriate mark-up languages.
-
 
 
 
