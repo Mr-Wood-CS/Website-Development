@@ -1,3 +1,5 @@
+/* ===== 1) Theme Variables ===== */
+/* Reusable color tokens used across slides and index components. */
 :root {
   color-scheme: light;
   --ink: #172026;
@@ -13,14 +15,18 @@
   --soft-third: #eee7fb;
 }
 
+/* ===== 2) Global Defaults ===== */
+/* Includes borders/padding in element sizing calculations. */
 * {
   box-sizing: border-box;
 }
 
+/* Enables vertical snap scrolling between sections. */
 html {
   scroll-snap-type: y mandatory;
 }
 
+/* Sets page background, text color, and default font stack. */
 body {
   margin: 0;
   background: var(--page);
@@ -28,10 +34,13 @@ body {
   font-family: "Quicksand", Arial, Helvetica, sans-serif;
 }
 
+/* ===== 3) Slide Deck Structure ===== */
+/* Starts slide numbering counter for the whole deck. */
 .deck {
   counter-reset: slide;
 }
 
+/* Core slide layout: full viewport height, centered content, spacing. */
 .slide {
   min-height: 100vh;
   scroll-snap-align: start;
@@ -43,6 +52,7 @@ body {
   overflow: hidden;
 }
 
+/* Displays automatic slide number in the top-right corner. */
 .slide::before {
   counter-increment: slide;
   content: counter(slide, decimal-leading-zero);
@@ -55,27 +65,41 @@ body {
   line-height: 1;
 }
 
+/* ===== 4) Slide Background Rotation ===== */
+/* Background variant 1 for every first slide in a 3-slide cycle. */
 .slide:nth-child(3n + 1) {
   background: linear-gradient(135deg, #ffffff 0%, var(--soft-primary) 100%);
 }
 
+/* Background variant 2 for every second slide in a 3-slide cycle. */
 .slide:nth-child(3n + 2) {
   background: linear-gradient(135deg, #ffffff 0%, var(--soft-secondary) 100%);
 }
 
+/* Background variant 3 for every third slide in a 3-slide cycle. */
 .slide:nth-child(3n) {
   background: linear-gradient(135deg, #ffffff 0%, var(--soft-third) 100%);
 }
 
-.slide.slide-title {
+/* ===== 5) Title Slide Variants ===== */
+/* Special styling for slides marked as title slides. */
+.slide:has(.h1-slide-title) {
   background: linear-gradient(135deg, #ffffff 0%, var(--soft-primary) 100%);
   color: var(--ink);
 }
 
-.slide-title::before {
+/* Styles the title heading when explicitly marked as a title-slide h1. */
+.h1-slide-title {
+  color: #145c63;
+}
+
+
+/* Slightly lighter slide number color on title slides. */
+.slide:has(.h1-slide-title)::before {
   color: rgba(20, 92, 99, 0.12);
 }
 
+/* Styles the small uppercase pre-heading text. */
 .kicker {
   margin: 0;
   color: var(--secondary);
@@ -85,32 +109,43 @@ body {
   letter-spacing: 0.08em;
 }
 
-.slide-title .kicker {
+/* Title-slide-specific color for kicker text. */
+.slide:has(.h1-slide-title) .kicker {
   color: #9a4a05;
 }
 
-h1,
+/* ===== 6) Headings and Text Scale ===== */
+/* Shared heading defaults for spacing, width, weight, and line-height. */
+/* h1,
 h2 {
+  margin: 0;
+  max-width: 980px;
+  font-weight: 700;
+  line-height: 1.05;
+} */
+h1{
   margin: 0;
   max-width: 980px;
   font-weight: 700;
   line-height: 1.05;
 }
 
+/* Main heading responsive size. */
 h1 {
   font-size: clamp(54px, 8vw, 104px);
 }
 
+/* Secondary heading color and responsive size. */
+/* new font size / old font size = number to set scaling size and maximum size*/
+/* 24 / 34 = 0.706 */
+/* scaling size = 6(vw-old number)* 0.706 = 4.2px */
+/* max size = 82(px-old number)* 0.706 = 58px (new size)*/
 h2 {
   color: var(--primary);
-  font-size: clamp(44px, 6vw, 82px);
+  font-size: clamp(24px, 4.2vw, 58px);
 }
 
-.slide-title h1,
-.slide-title h2 {
-  color: #145c63;
-}
-
+/* Title-slide heading color override. */
 p {
   margin: 0;
   max-width: 980px;
@@ -119,10 +154,12 @@ p {
   line-height: 1.22;
 }
 
-.slide-title p {
+/* Title-slide paragraph color override. */
+.slide:has(.h1-slide-title) p {
   color: #31565a;
 }
 
+/* Shared list styling for spacing, width, and readable size. */
 ul,
 ol {
   display: grid;
@@ -134,11 +171,14 @@ ol {
   line-height: 1.22;
 }
 
+/* Emphasizes and colors bullet/number markers. */
 li::marker {
   color: var(--secondary);
   font-weight: 700;
 }
 
+/* ===== 7) Content Components ===== */
+/* Two-column grid used for card-based content blocks. */
 .card-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -146,6 +186,7 @@ li::marker {
   max-width: 1100px;
 }
 
+/* Card surface style: border, radius, spacing, and shadow. */
 .card {
   background: rgba(255, 255, 255, 0.78);
   border: 2px solid var(--line);
@@ -156,10 +197,12 @@ li::marker {
   box-shadow: 0 14px 32px rgba(31, 41, 51, 0.09);
 }
 
+/* Limits list-group width within slides. */
 .slide .list-group {
   max-width: 980px;
 }
 
+/* Harmonizes Bootstrap list-group item styling with slide theme. */
 .slide .list-group-item {
   font-size: clamp(28px, 3.6vw, 48px);
   line-height: 1.22;
@@ -168,11 +211,14 @@ li::marker {
   border-color: var(--line);
 }
 
+/* Restores visible card border/background when border-0 is applied. */
 .slide .card.border-0 {
   border: 2px solid var(--line) !important;
   background: rgba(255, 255, 255, 0.78);
 }
 
+/* ===== 8) Image Layout ===== */
+/* Two-column content + image layout with aligned items. */
 .image-row {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(260px, 0.7fr);
@@ -180,12 +226,15 @@ li::marker {
   align-items: center;
 }
 
+/* Keeps images responsive and contained within slide height. */
 .image-row img {
   width: 100%;
   max-height: 52vh;
   object-fit: contain;
 }
 
+/* ===== 9) Footer Notes ===== */
+/* Positions footer notes near the lower-left of each slide. */
 .footer-note {
   position: absolute;
   left: clamp(28px, 7vw, 96px);
@@ -194,22 +243,27 @@ li::marker {
   font-size: 18px;
 }
 
-.slide-title .footer-note {
+/* Matches footer-note color behavior on title slides. */
+.slide:has(.h1-slide-title) .footer-note {
   color: var(--muted);
 }
 
+/* ===== 10) Deck Index Page ===== */
+/* Full-height index page area with responsive horizontal padding. */
 .deck-index {
   min-height: 100vh;
   padding: 54px clamp(24px, 6vw, 84px);
   background: var(--page);
 }
 
+/* Index page heading color, size, and spacing. */
 .deck-index h1 {
   color: var(--primary);
   font-size: clamp(42px, 6vw, 76px);
   margin-bottom: 28px;
 }
 
+/* Vertical list layout for lesson links. */
 .deck-list {
   display: grid;
   gap: 14px;
@@ -218,6 +272,7 @@ li::marker {
   list-style: none;
 }
 
+/* Card-like clickable styling for each lesson link row. */
 .deck-list a {
   display: block;
   background: var(--paper);
@@ -231,37 +286,49 @@ li::marker {
   text-decoration: none;
 }
 
+/* Interactive hover/focus accents for accessibility and feedback. */
 .deck-list a:hover,
 .deck-list a:focus {
   border-left-color: var(--secondary);
   outline: 3px solid var(--soft-secondary);
 }
 
+/* ===== 11) Responsive Rules (Mobile) ===== */
+
 @media (max-width: 760px) {
+
+  /* Tightens slide padding on smaller screens. */
   .slide {
     padding: 54px 22px;
   }
 
+  /* Stacks previously multi-column blocks into one column. */
   .card-grid,
   .image-row {
     grid-template-columns: 1fr;
   }
 
+  /* Repositions slide number to fit smaller viewport spacing. */
   .slide::before {
     top: 18px;
     right: 18px;
   }
 }
 
+/* ===== 12) Print Rules ===== */
 @media print {
+
+  /* Disables snap behavior for print/PDF output. */
   html {
     scroll-snap-type: none;
   }
 
+  /* Uses white background for cleaner printing. */
   body {
     background: #ffffff;
   }
 
+  /* Makes each slide print as a page-like block with boundaries. */
   .slide {
     min-height: auto;
     page-break-after: always;
@@ -269,16 +336,19 @@ li::marker {
     border-bottom: 2px solid #cccccc;
   }
 
+  /* Hides decorative slide numbers in print mode. */
   .slide::before {
     display: none;
   }
 
+  /* Print-friendly heading color and size. */
   h1,
   h2 {
     color: #000000;
     font-size: 34pt;
   }
 
+  /* Print-friendly paragraph/list color and size. */
   p,
   ul,
   ol {
@@ -286,6 +356,7 @@ li::marker {
     font-size: 20pt;
   }
 
+  /* Returns footer note to normal flow for print layout. */
   .footer-note {
     position: static;
     margin-top: 24px;
