@@ -107,6 +107,25 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
+  padding-bottom: 2%;
+}
+.slide-list {
+  color: var(--secondary);
+  font-size: 38px;
+}
+
+.title-slide-kicker {
+  margin: 0;
+  color: var(--secondary);
+  font-size: clamp(18px, 2vw, 26px);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* Keeps title-slide kicker text orange when title-slide paragraph styles apply. */
+.slide:has(.h1-slide-title) .title-slide-kicker {
+  color: var(--secondary);
 }
 
 /* Title-slide-specific color for kicker text. */
@@ -159,7 +178,7 @@ p {
   color: #31565a;
 }
 
-/* Shared list styling for spacing, width, and readable size. */
+/* /* Shared list styling for spacing, width, and readable size. 
 ul,
 ol {
   display: grid;
@@ -169,7 +188,7 @@ ol {
   max-width: 980px;
   font-size: clamp(28px, 3.6vw, 48px);
   line-height: 1.22;
-}
+} */
 
 /* Emphasizes and colors bullet/number markers. */
 li::marker {
@@ -198,18 +217,18 @@ li::marker {
 }
 
 /* Limits list-group width within slides. */
-.slide .list-group {
+/* .slide .list-group {
   max-width: 980px;
-}
+} */
 
 /* Harmonizes Bootstrap list-group item styling with slide theme. */
-.slide .list-group-item {
+/* .slide .list-group-item {
   font-size: clamp(28px, 3.6vw, 48px);
   line-height: 1.22;
   color: var(--ink);
   background: rgba(255, 255, 255, 0.62);
   border-color: var(--line);
-}
+} */
 
 /* Restores visible card border/background when border-0 is applied. */
 .slide .card.border-0 {
@@ -348,13 +367,13 @@ li::marker {
     font-size: 34pt;
   }
 
-  /* Print-friendly paragraph/list color and size. */
+  /* /* Print-friendly paragraph/list color and size. 
   p,
   ul,
   ol {
     color: #000000;
     font-size: 20pt;
-  }
+  } */
 
   /* Returns footer note to normal flow for print layout. */
   .footer-note {
