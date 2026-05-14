@@ -1,29 +1,165 @@
 # Lesson 01 Presentation: Planning a One Page Website
 
-## Slide 1: Today
+## Slide 1: Title
 
-Plan a one-page Visit Edinburgh website.
+**Kicker:** Lesson 01  
+**Title:** Planning a One Page Website  
+**Subtitle:** Decide who the website is for, what it should do, and how the page should be organised.
 
-## Slide 2: Key Words
+**Purpose:** Introduce the unit project: pupils will plan and later build a one-page "Visit Edinburgh" website.
 
-Audience, purpose, section, layout, information.
+## Slide 2: Learning Intention and Success Criteria
 
-## Slide 3: Website Questions
+**Learning intention:**  
+We will plan a one-page website by identifying the audience, purpose, sections, and content order.
 
-- Who is it for?
-- What does the user need?
-- What information comes first?
-- What action should the user take?
+**Success criteria:**
+- I can identify the target audience and the website's main purpose.
+- I can choose useful sections for a one-page design.
+- I can explain why the section order helps the visitor.
+- I can create a clear page plan before building.
 
-## Slide 4: Model Structure
+**Footer prompt:**  
+Think like a visitor: what do they need first, next, and last?
 
-Title, introduction, attractions, transport, visitor tips, credits.
+## Slide 3: Key Words
 
-## Slide 5: Your Task
+**Kicker:** Key Words  
+**Title:** Words we will use today
 
-Complete the Website Brief and Page Plan Storyboard.
+**Keyword cards:**
 
-## Slide 6: Exit
+**Audience**  
+Who the website is designed for, such as tourists, families, or first-time visitors.
 
+**Purpose**  
+What the website is trying to do, such as inform, guide, persuade, or help someone plan.
+
+**Section**  
+A block of related content on the page, such as attractions, transport, or visitor tips.
+
+**Layout**  
+How text, images, headings, and sections are arranged on the page.
+
+**Information**  
+The facts, details, and messages the visitor needs.
+
+**Footer prompt:**  
+Use these words when explaining your page plan.
+
+## Slide 4: Website Questions
+
+**Kicker:** Website Questions  
+**Title:** Before you plan the page, plan the visitor's journey
+
+**Context:**  
+You are designing a one-page "Visit Edinburgh" website. Each question helps you decide what the visitor needs and how the page should be organised.
+
+**Question cards:**
+
+**Who is it for?**  
+Choose a specific audience, such as families, tourists, students, or first-time visitors.
+
+**What does the user need?**  
+Think about the visitor's main goal, such as planning a trip, finding attractions, or checking transport.
+
+**What information comes first?**  
+Put the most useful details near the top so visitors do not have to search for them.
+
+**What action should the user take?**  
+Decide whether the site guides the visitor to explore, book, contact someone, or plan their route.
+
+**Side note:**  
+Use your answers to decide the sections, headings, and order of your one-page website.
+
+## Slide 5: Example Layout
+
+**Kicker:** Example Layout  
+**Title:** A one-page website needs a clear journey
+
+**Structure list:**
+1. **Title** - A strong heading and image to welcome visitors.
+2. **Introduction** - A short overview of what the page is about.
+3. **Attractions** - Key places to visit in Edinburgh.
+4. **Transport** - How to get to and around the city.
+5. **Visitor tips** - Practical advice for a better trip.
+6. **Credits** - Sources, image credits, and extra information.
+
+**Image:** `Assets/Images/wireframe-one-page.svg`
+
+**Footer prompt:**  
+Plan the order first, then build each section with a clear purpose.
+
+## Slide 6: Your Task
+
+**Kicker:** Main Task  
+**Title:** Complete your website brief and storyboard
+
+**Task steps:**
+1. Choose the audience for your Visit Edinburgh website.
+2. Write the purpose of the website.
+3. Choose the sections your page needs.
+4. Put the sections into a logical order.
+5. Add notes about headings, text, images, and useful details.
+6. Explain why the first section should appear first.
+
+**Support:**  
+Use the sentence starter: "My website is for ___ and it helps them by ___."
+
+**Challenge:**  
+Justify your section order by linking it to the audience's needs.
+
+## Slide 7: Check for Understanding
+
+**Kicker:** Check for Understanding  
+**Title:** Choose the level that stretches your thinking
+
+**Scenario:**  
+You are planning a one-page "Visit Edinburgh" website for tourists who want to quickly find useful trip information.
+
+**1 - Beginning to learn**
+- Who is the audience for the "Visit Edinburgh" website?
+- What is one purpose of the website?
+
+**2 - Making progress**
+- Give one thing tourists would need to know before visiting Edinburgh.
+- Name two sections that would help tourists use the website.
+
+**3 - Making good progress**
+- Explain why the most useful tourist information should appear near the top of the page.
+- Describe how clear headings would help visitors find Edinburgh information quickly.
+
+**4 - Meeting target**
+- Suggest the best first section for the tourist website and justify your choice.
+- Explain how your section order supports tourists who need quick trip information.
+
+**Footer prompt:**  
+Start where you feel confident, then try the next level.
+
+## Slide 8: Exit Ticket
+
+**Kicker:** Exit Ticket  
+**Title:** Explain your page idea
+
+**1 - Beginning to learn**  
+Complete: My website is for ___.
+
+**2 - Making progress**  
+Complete: My website is for ___ and it helps them by ___.
+
+**3 - Making good progress**  
+Complete: My website is for ___ and its purpose is to ___ because ___.
+
+**4 - Meeting target**  
+Complete: My website is for ___ and its purpose is to ___. My first section is ___ because ___ and this supports users by ___.
+
+**Final takeaway:**  
 Audience is who the website is for. Purpose is what the website is trying to do.
 
+## Build Notes
+
+- Use the existing presentation template design system.
+- Use keyword-card styling for Slide 3.
+- Use question-list style with `question-context` for Slide 4.
+- Use image-and-content styling for Slide 5.
+- Use the four-level question table pattern with `context-scenario` for Slide 7 and Slide 8.

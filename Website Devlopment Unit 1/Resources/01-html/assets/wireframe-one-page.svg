@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#f7f7f2"/>
+  <rect x="70" y="60" width="760" height="130" fill="#d9ead3" stroke="#333"/>
+  <text x="95" y="135" font-family="Arial" font-size="34" fill="#111">Visit Edinburgh</text>
+  <rect x="70" y="230" width="760" height="200" fill="#fff" stroke="#333"/>
+  <text x="95" y="285" font-family="Arial" font-size="28" fill="#111">Introduction</text>
+  <line x1="95" y1="325" x2="760" y2="325" stroke="#777" stroke-width="8"/>
+  <line x1="95" y1="360" x2="650" y2="360" stroke="#777" stroke-width="8"/>
+  <rect x="70" y="470" width="760" height="200" fill="#e8f0fe" stroke="#333"/>
+  <text x="95" y="525" font-family="Arial" font-size="28" fill="#111">Attractions</text>
+  <rect x="610" y="500" width="170" height="120" fill="#cfe2f3" stroke="#333"/>
+  <rect x="70" y="710" width="760" height="200" fill="#fff2cc" stroke="#333"/>
+  <text x="95" y="765" font-family="Arial" font-size="28" fill="#111">Getting Around</text>
+  <rect x="70" y="950" width="760" height="130" fill="#eadcf8" stroke="#333"/>
+  <text x="95" y="1025" font-family="Arial" font-size="28" fill="#111">Credits and Sources</text>
+</svg>
+
