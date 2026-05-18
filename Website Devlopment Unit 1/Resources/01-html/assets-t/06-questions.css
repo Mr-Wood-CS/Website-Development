@@ -18,13 +18,15 @@
 
 .questions-intro {
   display: grid;
-  width: min(100%, 1240px);
-  max-width: 1240px;
-}er
+  width: 100%;
+  /* width: min(100%, 1240px); */
+  /* max-width: 1240px; */
+}
 
 .questions-intro-main {
-  display: grid;
+  /* display: grid; */
   gap: 12px;
+  color: #5b3f8c;
 }
 
 .kicker {
@@ -64,7 +66,7 @@
   letter-spacing: 0.08em;
 }
 
-.context-scenario p {
+.context-scenario-text {
   margin: 0;
   color: var(--ink);
   font-size: clamp(17px, 1.45vw, 22px);
