@@ -1,5 +1,9 @@
 # Lesson 01 Presentation: Planning a One Page Website
 
+## id's
+
+06 =  Website Devlopment Unit 1\Resources\Presentations\06.html - Tasks
+
 ## Slide 1: Title
 
 **Kicker:** Lesson 01  
@@ -19,8 +23,6 @@ We will plan a one-page website by identifying the audience, purpose, sections, 
 - I can explain why the section order helps the visitor.
 - I can create a clear page plan before building.
 
-**Footer prompt:**  
-Think like a visitor: what do they need first, next, and last?
 
 ## Slide 3: Key Words
 
@@ -48,12 +50,17 @@ The facts, details, and messages the visitor needs.
 Use these words when explaining your page plan.
 
 ## Slide 4: Website Questions
+## Slide id = "06"
 
 **Kicker:** Website Questions  
 **Title:** Before you plan the page, plan the visitor's journey
 
 **Context:**  
-You are designing a one-page "Visit Edinburgh" website. Each question helps you decide what the visitor needs and how the page should be organised.
+When you are designing a website you first need to understand what the visitor needs and how the page should be organised.  
+
+Try to think like a person who will visit your website: what do they need first, next, and last?
+
+You should always consider the following questions:
 
 **Question cards:**
 
@@ -64,7 +71,7 @@ Choose a specific audience, such as families, tourists, students, or first-time 
 Think about the visitor's main goal, such as planning a trip, finding attractions, or checking transport.
 
 **What information comes first?**  
-Put the most useful details near the top so visitors do not have to search for them.
+Put the most useful details near the top so visitors to your website do not have to search for them.
 
 **What action should the user take?**  
 Decide whether the site guides the visitor to explore, book, contact someone, or plan their route.
@@ -74,8 +81,8 @@ Use your answers to decide the sections, headings, and order of your one-page we
 
 ## Slide 5: Example Layout
 
-**Kicker:** Example Layout  
-**Title:** A one-page website needs a clear journey
+**Kicker:** Wireframes 
+**Title:** A website always needs a clear journey
 
 **Structure list:**
 1. **Title** - A strong heading and image to welcome visitors.
@@ -90,31 +97,11 @@ Use your answers to decide the sections, headings, and order of your one-page we
 **Footer prompt:**  
 Plan the order first, then build each section with a clear purpose.
 
-## Slide 6: Your Task
+## Slide 6: 
 
-**Kicker:** Main Task  
-**Title:** Complete your website brief and storyboard
-
-**Task steps:**
-1. Choose the audience for your Visit Edinburgh website.
-2. Write the purpose of the website.
-3. Choose the sections your page needs.
-4. Put the sections into a logical order.
-5. Add notes about headings, text, images, and useful details.
-6. Explain why the first section should appear first.
-
-**Support:**  
-Use the sentence starter: "My website is for ___ and it helps them by ___."
-
-**Challenge:**  
-Justify your section order by linking it to the audience's needs.
-
-## Slide 7: Check for Understanding
-
-**Kicker:** Check for Understanding  
+**Kicker:** Task One  
 **Title:** Choose the level that stretches your thinking
-
-**Scenario:**  
+ 
 You are planning a one-page "Visit Edinburgh" website for tourists who want to quickly find useful trip information.
 
 **1 - Beginning to learn**
@@ -135,6 +122,24 @@ You are planning a one-page "Visit Edinburgh" website for tourists who want to q
 
 **Footer prompt:**  
 Start where you feel confident, then try the next level.
+
+**Kicker:** Task two 
+**Title:** Create the wireframe for your 'Visit Edinburgh Website'
+
+**Task steps:**
+1. Open Powerpoint
+1. Think about the sections your page needs.
+2. Using shapes to draw rectangles, circles etc put the sections of your webpage into a logical order.
+3. Add notes about headings, text, images, and useful details.
+4. Add a print scren of your work to your workbook
+
+
+**Support:**  
+Use the sentence starter: "My website is for ___ and it helps them by ___."
+
+**Challenge:**  
+Justify your section order by linking it to the audience's needs.
+
 
 ## Slide 8: Exit Ticket
 

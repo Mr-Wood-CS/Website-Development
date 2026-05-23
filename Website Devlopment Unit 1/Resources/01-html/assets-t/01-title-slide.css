@@ -30,7 +30,7 @@ h1 {
 
 p {
   margin: 0;
-  max-width: 980px;
+  /* max-width: 980px; */
   color: var(--ink);
   font-size: clamp(28px, 4vw, 52px);
   line-height: 1.22;
