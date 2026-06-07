@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+  <rect width="1200" height="500" fill="#eef4f7"/>
+  <rect y="360" width="1200" height="140" fill="#8fb996"/>
+  <path d="M120 360 L220 230 L320 360 Z" fill="#7d8b8c"/>
+  <path d="M220 230 L300 170 L390 360 Z" fill="#59656f"/>
+  <rect x="520" y="190" width="220" height="170" fill="#b7a99a" stroke="#333" stroke-width="4"/>
+  <rect x="555" y="230" width="40" height="55" fill="#5e6c72"/>
+  <rect x="665" y="230" width="40" height="55" fill="#5e6c72"/>
+  <rect x="585" y="305" width="90" height="55" fill="#6b4f3f"/>
+  <rect x="495" y="150" width="270" height="45" fill="#89796a" stroke="#333" stroke-width="4"/>
+  <text x="120" y="110" font-family="Arial" font-size="58" fill="#1f2933">Visit Edinburgh</text>
+  <text x="123" y="165" font-family="Arial" font-size="30" fill="#1f2933">A one-page travel website project</text>
+</svg>
