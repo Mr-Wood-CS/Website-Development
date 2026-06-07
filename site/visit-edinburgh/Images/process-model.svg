@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+  <rect width="1000" height="420" fill="#f7f7f2"/>
+  <rect x="70" y="150" width="180" height="90" fill="#d9ead3" stroke="#222" stroke-width="3"/>
+  <text x="118" y="203" font-family="Arial" font-size="26">User</text>
+  <rect x="310" y="150" width="180" height="90" fill="#e8f0fe" stroke="#222" stroke-width="3"/>
+  <text x="354" y="203" font-family="Arial" font-size="26">Browser</text>
+  <rect x="550" y="150" width="180" height="90" fill="#fff2cc" stroke="#222" stroke-width="3"/>
+  <text x="592" y="203" font-family="Arial" font-size="26">Address</text>
+  <rect x="790" y="150" width="150" height="90" fill="#eadcf8" stroke="#222" stroke-width="3"/>
+  <text x="824" y="203" font-family="Arial" font-size="26">Files</text>
+  <line x1="250" y1="195" x2="310" y2="195" stroke="#222" stroke-width="4"/>
+  <polygon points="310,195 292,185 292,205" fill="#222"/>
+  <line x1="490" y1="195" x2="550" y2="195" stroke="#222" stroke-width="4"/>
+  <polygon points="550,195 532,185 532,205" fill="#222"/>
+  <line x1="730" y1="195" x2="790" y2="195" stroke="#222" stroke-width="4"/>
+  <polygon points="790,195 772,185 772,205" fill="#222"/>
+  <text x="260" y="105" font-family="Arial" font-size="24">request</text>
+  <text x="535" y="105" font-family="Arial" font-size="24">finds location</text>
+  <text x="680" y="285" font-family="Arial" font-size="24">packets return data</text>
+</svg>
+
