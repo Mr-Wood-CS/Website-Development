@@ -2,7 +2,7 @@ site_name: Web Development
 
 nav:
     - Home: 'index.md'
-    - Visit Edinburgh:
+    - Unit One - Visit Edinburgh:
       - Unit Introduction: 'visit-edinburgh/00-unit-introduction.md'
       - Lesson One - Planning: 'visit-edinburgh/01-planning.md'
       - Lesson Two - Designing a Wireframe: 'visit-edinburgh/02-wireframes.md'
