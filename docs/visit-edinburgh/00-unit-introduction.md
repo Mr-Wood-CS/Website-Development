@@ -1,5 +1,7 @@
 ![Edinburgh city view](Images/edinburgh.png){ .homepage-image }
 
+Image source: [Go Guides Edinburgh image](https://cdn.sanity.io/images/nxpteyfv/goguides/d07238c54e5686acf85827646dfbb6659cab2ce7-1600x1066.jpg)
+
 # :material-web: Visit Edinburgh
 
 Welcome to the ==Visit Edinburgh== website development unit.
