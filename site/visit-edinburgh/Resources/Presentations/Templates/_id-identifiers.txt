@@ -1,8 +1,0 @@
-
-
-
-01 - Title Slide
-02 - Learning Intention and Success Criteria
-03 - Keywords (static)
-04 - keywords (animated)
-06 - Tasks ( half and half top + bottom)

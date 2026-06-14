@@ -4,8 +4,12 @@ nav:
     - Home: 'index.md'
     - Unit One - Visit Edinburgh:
       - Unit Introduction: 'visit-edinburgh/00-unit-introduction.md'
+      - Pupil Support:
+        - Describe Questions: 'visit-edinburgh/__pupil-support-describe.md'
+        - Explain Questions: 'visit-edinburgh/__pupil-support-explain.md'
       - Lesson One - Planning: 'visit-edinburgh/01-planning.md'
       - Lesson Two - Designing a Wireframe: 'visit-edinburgh/02-wireframes.md'
+      - Lesson Three - Research and Information: 'visit-edinburgh/03-research-and-information.md'
         
       
 markdown_extensions:

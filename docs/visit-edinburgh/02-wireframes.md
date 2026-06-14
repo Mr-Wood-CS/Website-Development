@@ -71,11 +71,13 @@
 
 ## :triangular_ruler: Designing a Wireframe
 
-Every website needs a clear journey and before we can start building our website we need to make a template of how it is going to look.
+Every website needs a clear visitor journey. Before we start building, we create a simple plan showing how the page will be organised.
 
 In Web Development this is called a Wireframe.
 
 A wireframe does not need finished colours, fonts, or images. It is a planning tool that helps you decide what each section will contain before you start building.
+
+Wireframes help designers spot problems before they start building. Making changes to a wireframe is much quicker than rebuilding a finished website.
 
 When creating your wireframe, think about:
 
@@ -83,6 +85,32 @@ When creating your wireframe, think about:
 - Which sections will be most useful
 - Where headings, text, and images could go
 - How the page will guide the visitor from top to bottom
+
+### :material-account-group-outline: Designing for Your Audience
+
+Different audiences may need information in a different order.
+
+For example:
+
+- Tourists may want attractions near the top of the page.
+- Families may want visitor tips and facilities.
+- First-time visitors may need transport information.
+- Returning visitors may be more interested in events and activities.
+
+Your wireframe should be organised to meet the needs of your chosen audience.
+
+### :material-pencil-outline: What Is an Annotation?
+
+An annotation is a short note added to a wireframe.
+
+Annotations help explain:
+
+- What text will go in a section
+- What image could be used
+- What heading should appear
+- Any important information the visitor needs
+
+Annotations make it easier for someone else to understand your design.
 
 ---
 

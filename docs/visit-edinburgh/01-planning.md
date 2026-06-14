@@ -82,6 +82,26 @@ When you are designing a website you should always be thinking of the end user a
 
 Each question helps you decide what the visitor needs and how the page should be organised.
 
+The order of sections is important because visitors usually look at the top of a page first. Important information should appear before less important details.
+
+### :material-format-header-pound: Using Clear Headings
+
+Headings help visitors understand what each section is about.
+
+Good headings:
+
+- Clearly describe the content below them
+- Help visitors find information quickly
+- Break a page into easy-to-read sections
+- Make the website easier to navigate
+
+Examples:
+
+- Top Attractions
+- Getting Around Edinburgh
+- Places to Eat
+- Visitor Tips
+
 ---
 
 ## :memo: Task

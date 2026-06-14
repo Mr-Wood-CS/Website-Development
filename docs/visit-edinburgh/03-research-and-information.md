@@ -1,198 +1,291 @@
-# Lesson 02 Presentation: Research and Information Models
+# :material-book-search-outline: Lesson Three - Research and Information
 
-## Slide 1: Title
+## :dart: Learning Intention and Success Criteria
 
-**Kicker:** Lesson 02  
-**Title:** Research and Information Models  
-**Subtitle:** Turning facts into useful website content
+<table>
+  <thead>
+    <tr>
+      <th>Learning Intention</th>
+      <th>Success Criteria</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Find useful facts for a one-page website.</li>
+          <li>Choose reliable sources for text and images.</li>
+          <li>Record where information and images came from.</li>
+          <li>Organise research using an information model.</li>
+        </ul>
+      </td>
+      <td>
+        <p>By the end of this lesson you will be able to:</p>
+        <ul>
+          <li>I can find useful facts from suitable sources.</li>
+          <li>I can explain why a source is reliable.</li>
+          <li>I can record sources for text and images.</li>
+          <li>I can organise research using the same fields for each item.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-**Purpose:** Introduce the lesson focus and connect research to the one-page website pupils planned in Lesson 01.
+---
 
-## Slide 2: Learning Intention and Success Criteria
+## :material-format-letter-case: Todays Keywords
 
-**Learning intention:**  
-We will gather reliable information and organise it into a simple information model for a one-page website.
+<table class="keywords-table">
+  <thead>
+    <tr>
+      <th>Keyword</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Source</td>
+      <td>Where information or an image came from, such as a website, map, guide, or official page.</td>
+    </tr>
+    <tr>
+      <td>Reliable</td>
+      <td>Information that is accurate, trustworthy, and suitable for the task.</td>
+    </tr>
+    <tr>
+      <td>Information Model</td>
+      <td>A structured way to describe real-world things using the same set of fields.</td>
+    </tr>
+    <tr>
+      <td>Characteristic</td>
+      <td>A detail that describes an item, such as its name, location, or description.</td>
+    </tr>
+    <tr>
+      <td>Source URL</td>
+      <td>The web address that shows exactly where your text or image came from.</td>
+    </tr>
+  </tbody>
+</table>
 
-**Success criteria:**
-- I can collect useful facts from suitable sources.
-- I can record where text and images came from.
-- I can describe each content item using clear characteristics.
-- I can explain how an information model helps visitors compare information.
+---
 
-**Footer prompt:**  
-Reliable research makes the website more useful for real visitors.
+## :material-file-search-outline: Good Research Helps Visitors
 
-## Slide 3: Key Words
+When building a website, you should not just collect lots of facts. You should choose the information that helps the visitor most.
 
-**Kicker:** Key Words  
-**Title:** Words we will use today
+For the `Visit Edinburgh` website, the audience is tourists who want useful trip information quickly. This means your research should be:
 
-**Keyword cards:**
+- Relevant to the visitor
+- Easy to understand
+- From a trustworthy source
+- Recorded clearly so you can use it later
 
-**Source**  
-Where information or an image came from, such as a website, guide, map, or official page.
+When researching, ask yourself:
 
-**Reliable**  
-Information that is accurate, trustworthy, and suitable for the task.
+| Question | What to Think About |
+|-----------|-----------|
+| Is the source suitable? | Check if the website is relevant, current, and likely to be trustworthy. |
+| What fact is useful? | Choose details that would help a visitor plan or enjoy their visit. |
+| Can I rewrite it? | Put facts into your own words so your website is clear and original. |
+| What source is needed? | Save the website name and URL so you can show where your information came from and find it again later if needed. |
 
-**Information model**  
-A structured way to describe real-world things using the same set of fields.
 
-**Characteristic**  
-A detail that describes an item, such as name, location, category, cost, or visitor value.
+### :material-link-variant: Why Record a Source?
 
-**Credit**  
-A note showing where text, images, or information came from.
+Recording sources is an important part of research.
 
-**Footer prompt:**  
-Use these words when explaining how you chose your website content.
+When you record the source URL, you can:
 
-## Slide 4: Research Questions
+- Find the information again later
+- Check that the information is accurate
+- Show where your research came from
 
-**Kicker:** Research Questions  
-**Title:** Before you collect content, check that it is useful
+When you record where an image came from, you can:
 
-**Context:**  
-You are researching content for a one-page "Visit Edinburgh" website. Your audience is tourists who want useful trip information quickly.
+- Find the image again if needed
+- Check that it is suitable for your website
+- Give credit to the original source
 
-**Question cards:**
-
-**Is the source suitable?**  
-Check whether the website is relevant, current, and likely to be trustworthy.
-
-**What fact is useful?**  
-Choose information a visitor would actually need, not just anything interesting.
-
-**Can I rewrite it?**  
-Record facts in your own words so your page sounds clear and original.
-
-**What credit is needed?**  
-Save the website name, URL, and image credit so sources can be acknowledged.
-
-**Side note:**  
 Good research is not collecting everything. It is choosing what helps the visitor.
 
-## Slide 5: Information Model
+### :material-shield-check-outline: Choosing a Reliable Source
 
-**Kicker:** Information Model  
-**Title:** Describe each attraction in the same way
+Not all websites are equally trustworthy.
 
-**Context/scenario:**  
-You are collecting attractions or visitor topics for the website. Each item should use the same fields so it can be compared, sorted, or searched later.
+Reliable websites often:
 
-**Suggested model fields:**
+- Belong to official organisations or businesses
+- Are regularly updated
+- Provide accurate contact information
+- Have clear, professional content
+- Match information found on other trusted websites
 
-| Field | What it records | Example |
-|---|---|---|
-| Name | What the item is called | Edinburgh Castle |
-| Category | The type of item | Attraction |
-| Description | A short visitor-friendly summary | Historic castle near the Royal Mile |
-| Location | Where it is | Castlehill |
-| Visitor value | Why it helps the audience | Good for history and views |
-| Source | Where the fact came from | Official visitor website |
-| Image credit | Where the image came from | Website or photographer credit |
+For a tourism website, official visitor, museum, council, and attraction websites are usually more reliable than websites with unusual names, excessive advertisements, or unclear ownership.
 
-**Footer prompt:**  
-An information model helps us describe real-world information clearly.
 
-## Slide 6: Sorting and Searching
+### :material-web-check: Why Source Quality Matters
 
-**Kicker:** Computing Link  
-**Title:** Models make information easier to use
+The quality of your sources affects the quality of your website.
 
-**Context:**  
-If every attraction uses the same fields, the information can be organised in useful ways.
+Reliable sources help visitors trust your information and make good decisions when planning a visit.
 
-**Examples:**
+Poor sources may contain mistakes, outdated information, or misleading facts. Using unreliable sources can make a website less useful and less professional.
 
-**Sort by name**  
-Put attractions into alphabetical order so users can scan them quickly.
+Good websites are built using good research.
 
-**Sort by category**  
-Group attractions, transport, food, and visitor tips.
 
-**Search by location**  
-Find items near the Royal Mile, city centre, or a transport route.
+## :memo: Task One
 
-**Compare visitor value**  
-Decide which items best match the audience's needs.
+Answer these general research questions before you build your information model.
 
-**Side note:**  
-Structured information is easier to sort, search, compare, and reuse.
+**Start at Level One then keep working through the task.**
 
-## Slide 7: Your Task
+**Challenge yourself to see how far you can go.**
 
-**Kicker:** Main Task  
-**Title:** Build your research log
+=== "Level One"
 
-**Task steps:**
-1. Choose at least three attractions or visitor topics for the "Visit Edinburgh" website.
-2. Find useful facts from suitable sources.
-3. Rewrite each fact in your own words.
-4. Record the source name and URL.
-5. Record image sources or credits.
-6. Complete the information model fields for each item.
+    **Question 1**
 
-**Support:**  
-Use the sentence starter: "This section is useful for visitors because..."
+    What is a source?
 
-**Challenge:**  
-Choose one field that could be used for sorting or searching and explain why.
+    **Question 2**
 
-## Slide 8: Check for Understanding
+    Name one fact a visitor would need to know for your website.
 
-**Kicker:** Check for Understanding  
-**Title:** Choose the level that stretches your thinking
+=== "Level Two"
 
-**Scenario:**  
-You are creating an information model for Edinburgh attractions that tourists could use to compare places quickly.
+    **Question 3**
 
-**1 - Beginning to learn**
-- What is an information model?
-- Name one detail you could collect about an attraction.
+    Give one sign that a website source is trustworthy.
 
-**2 - Making progress**
-- Give three characteristics to describe a tourist attraction.
-- Put three attractions into alphabetical order.
+    **Question 4**
 
-**3 - Making good progress**
-- Explain one way attractions could be sorted.
-- Explain one way attractions could be searched.
+    Why should you record where an image came from?
 
-**4 - Meeting target**
-- Design a simple information model for attractions and explain why your fields are useful.
-- Explain how your model helps users compare attractions quickly.
+=== "Level Three"
 
-**Footer prompt:**  
-Start where you feel confident, then try the next level.
+    **Question 5**
 
-## Slide 9: Exit Ticket
+    Explain why facts should be rewritten in your own words.
 
-**Kicker:** Exit Ticket  
-**Title:** What did your research prove?
+    **Question 6**
 
-**1 - Beginning to learn**  
-Name one source you used.
+    Explain why recording the source URL is important.
 
-**2 - Making progress**  
-Name one source and one fact from it.
+=== "Level Four"
 
-**3 - Making good progress**  
-Name one source and rewrite one fact in your own words.
+    **Question 7**
 
-**4 - Meeting target**  
-Name one source, rewrite one fact in your own words, and justify why the source is trustworthy.
+    Look at these 2 website URLs and choose the one you would trust most for your website:
 
-**Final takeaway:**  
-A strong website starts with reliable information organised in a clear model.
+    - `www.visitscotland.com`
+    - `www.best-holidays-and-discounts123.biz`
 
-## Build Notes
+    Describe 1 reason for your choice.
 
-- Use the existing presentation template design system.
-- Use `context-scenario` for the scaffolded question scenario on Slide 8.
-- Use clear side-note/footer classes where the slide needs guidance text.
-- Keep each slide to one viewport where possible.
-- Use keyword-card styling for Slide 3.
-- Use question-list style for Slide 4.
-- Use a table or card-based model layout for Slide 5.
-- Use the four-level question table pattern for Slide 8 and Slide 9.
+    **Question 8**
+
+    Explain how the quality of your sources affects the final website.
+
+---
+
+## :material-database-outline: Using an Information Model
+
+
+An information model helps you organise research in a clear and consistent way.
+
+Each column in an information model is called a field.
+
+A field stores one type of information, such as:
+
+- Name
+- Description
+- Location
+- Source Type
+- Source URL
+
+Every row should contain information for the same fields.
+
+The fields in an information model are often used to store characteristics of an item, such as its name, location, description, or category.
+
+If you describe each attraction or visitor topic using the same fields, the information becomes easier to:
+
+- Compare
+- Sort
+- Search
+- Reuse in your website
+
+You can think of this like a research table. The headings go across the top, then you add a new row for each attraction or visitor topic.
+
+Here is an example with two attractions:
+
+| Name | Description | Location | Source&nbsp;Type | Source URL |
+|-----------|-----------|-----------|-----------|-----------|
+| Edinburgh Castle | Historic castle with exhibitions, views, and Scottish history. | Castlehill, Edinburgh | Text | `https://www.visitscotland.com/` |
+| National Museum of Scotland | Museum with science, history, design, and nature exhibits. | Chambers Street, Edinburgh | Image | `https://www.nms.ac.uk/` |
+
+This makes the information easier to understand because you can clearly see what to write in each column and add more rows as you continue your research.
+
+
+Using the same fields for each item makes it easier for visitors to compare attractions and find useful information quickly.
+
+### :material-lightbulb-outline: What Makes Information Useful?
+
+Good information should be:
+
+- Accurate
+- Relevant to the visitor
+- Clear and easy to understand
+- Detailed enough to be helpful
+
+For example:
+
+❌ Edinburgh Castle – A castle.
+
+✅ Edinburgh Castle – Historic castle with exhibitions, city views, and important Scottish history.
+
+The second example gives visitors more useful information and helps them decide whether they would like to visit.
+
+A complete information model normally contains multiple rows, with one row for each attraction, location, service, or topic you want to include on your website.
+
+---
+
+## :material-table-large: Task Two
+
+Use your website plan and wireframe to design an information model for the `Visit Edinburgh` website.
+
+**Start at Level One then keep working through the questions.**
+
+**Challenge yourself to see how far you can go.**
+
+=== "Level One"
+
+    Create an information model using **SOME** information that matches the topic of your website.
+
+=== "Level Two"
+
+    Create an information model with **ONE** complete row of data that matches the topic of your website.
+
+=== "Level Three"
+
+    Create a detailed information model with **TWO** complete rows of data that match the topic of your website and contain purposeful, informative data.
+
+=== "Level Four"
+
+    Create a complete information model with **SEVERAL** rows of data that match your website topic and are purposeful and informative.
+
+=== "Challenge Question"
+
+    Explain how your information model helps someone collect and compare information quickly.
+
+---
+
+## :material-comment-check-outline: Reflection
+
+Before moving on, make sure you can:
+
+- Explain what a source is.
+- Describe why reliable sources matter.
+- Record sources for text and images.
+- Explain what an information model is.
+- Use the keywords source, reliable, information model, characteristic, and source URL correctly.
