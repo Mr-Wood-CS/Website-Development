@@ -1,4 +1,4 @@
-# :material-draw: Lesson Two - Designing a Wireframe
+# :material-draw: 02 - Designing a Wireframe
 
 ## :dart: Learning Intention and Success Criteria
 

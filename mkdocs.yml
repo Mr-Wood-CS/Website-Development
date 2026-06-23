@@ -7,9 +7,19 @@ nav:
       - Pupil Support:
         - Describe Questions: 'visit-edinburgh/__pupil-support-describe.md'
         - Explain Questions: 'visit-edinburgh/__pupil-support-explain.md'
+        - Describe And Explain Answer Levels: 'visit-edinburgh/__pupil-support-command-words-rubric.md'
       - Lesson One - Planning: 'visit-edinburgh/01-planning.md'
       - Lesson Two - Designing a Wireframe: 'visit-edinburgh/02-wireframes.md'
-      - Lesson Three - Research and Information: 'visit-edinburgh/03-research-and-information.md'
+      - Lesson Three - Research: 'visit-edinburgh/03-research.md'
+      - Lesson Three - Research Pupil Version: 'visit-edinburgh/03-research-pupil-version.md'
+      - Lesson Three - Research Trial:
+        - 1. What Is Research?: 'visit-edinburgh/03-research-trial-01-what-is-research.md'
+        - 2. What Is A Source?: 'visit-edinburgh/03-research-trial-02-what-is-a-source.md'
+        - 3. Why Save The Source URL?: 'visit-edinburgh/03-research-trial-03-source-url.md'
+        - 4. Find One Useful Fact: 'visit-edinburgh/03-research-trial-04-useful-fact.md'
+        - 5. Rewrite The Fact: 'visit-edinburgh/03-research-trial-05-rewrite-fact.md'
+        - 6. Complete Your Research Table: 'visit-edinburgh/03-research-trial-06-research-table.md'
+      - Lesson Four - Information Models: 'visit-edinburgh/04-information.md'
         
       
 markdown_extensions:

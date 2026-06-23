@@ -1,4 +1,4 @@
-# :material-book-search-outline: Lesson Three - Research and Information
+# :material-book-search-outline: Lesson Three - Research
 
 ## :dart: Learning Intention and Success Criteria
 
@@ -16,7 +16,7 @@
           <li>Find useful facts for a one-page website.</li>
           <li>Choose reliable sources for text and images.</li>
           <li>Record where information and images came from.</li>
-          <li>Organise research using an information model.</li>
+          <li>Rewrite information so it is clear and suitable for visitors.</li>
         </ul>
       </td>
       <td>
@@ -25,7 +25,7 @@
           <li>I can find useful facts from suitable sources.</li>
           <li>I can explain why a source is reliable.</li>
           <li>I can record sources for text and images.</li>
-          <li>I can organise research using the same fields for each item.</li>
+          <li>I can rewrite facts in my own words for my website audience.</li>
         </ul>
       </td>
     </tr>
@@ -53,16 +53,16 @@
       <td>Information that is accurate, trustworthy, and suitable for the task.</td>
     </tr>
     <tr>
-      <td>Information Model</td>
-      <td>A structured way to describe real-world things using the same set of fields.</td>
-    </tr>
-    <tr>
-      <td>Characteristic</td>
-      <td>A detail that describes an item, such as its name, location, or description.</td>
-    </tr>
-    <tr>
       <td>Source URL</td>
       <td>The web address that shows exactly where your text or image came from.</td>
+    </tr>
+    <tr>
+      <td>Credit</td>
+      <td>A note that shows where information or an image came from.</td>
+    </tr>
+    <tr>
+      <td>Rewrite</td>
+      <td>To put information into your own words while keeping the meaning accurate.</td>
     </tr>
   </tbody>
 </table>
@@ -89,8 +89,9 @@ When researching, ask yourself:
 | Can I rewrite it? | Put facts into your own words so your website is clear and original. |
 | What source is needed? | Save the website name and URL so you can show where your information came from and find it again later if needed. |
 
+---
 
-### :material-link-variant: Why Record a Source?
+## :material-link-variant: Why Record a Source?
 
 Recording sources is an important part of research.
 
@@ -108,7 +109,9 @@ When you record where an image came from, you can:
 
 Good research is not collecting everything. It is choosing what helps the visitor.
 
-### :material-shield-check-outline: Choosing a Reliable Source
+---
+
+## :material-shield-check-outline: Choosing a Reliable Source
 
 Not all websites are equally trustworthy.
 
@@ -122,7 +125,6 @@ Reliable websites often:
 
 For a tourism website, official visitor, museum, council, and attraction websites are usually more reliable than websites with unusual names, excessive advertisements, or unclear ownership.
 
-
 ### :material-web-check: Why Source Quality Matters
 
 The quality of your sources affects the quality of your website.
@@ -133,10 +135,31 @@ Poor sources may contain mistakes, outdated information, or misleading facts. Us
 
 Good websites are built using good research.
 
+---
 
-## :memo: Task One
+## :material-pencil-outline: Rewriting Research
 
-Answer these general research questions before you build your information model.
+You should not copy large chunks of text straight from a source.
+
+Instead, read the information, choose the useful facts, and rewrite them in your own words. This helps you:
+
+- Show that you understand the information
+- Make the text easier for your audience to read
+- Keep your website original
+- Choose only the details that support your website purpose
+
+For example:
+
+| Source Fact | Rewritten for a Visitor Website |
+|-----------|-----------|
+| Edinburgh Castle is located on Castle Rock and is one of Scotland's most famous historic sites. | Edinburgh Castle sits high on Castle Rock and is one of the most famous historic places to visit in Scotland. |
+| The National Museum of Scotland has collections about nature, science, technology, art, design, and world cultures. | The National Museum of Scotland has exhibitions about nature, science, technology, art, design, and cultures from around the world. |
+
+---
+
+## :memo: Task
+
+Answer these research questions before you build your information model in the next lesson.
 
 **Start at Level One then keep working through the task.**
 
@@ -189,97 +212,6 @@ Answer these general research questions before you build your information model.
 
 ---
 
-## :material-database-outline: Using an Information Model
-
-
-An information model helps you organise research in a clear and consistent way.
-
-Each column in an information model is called a field.
-
-A field stores one type of information, such as:
-
-- Name
-- Description
-- Location
-- Source Type
-- Source URL
-
-Every row should contain information for the same fields.
-
-The fields in an information model are often used to store characteristics of an item, such as its name, location, description, or category.
-
-If you describe each attraction or visitor topic using the same fields, the information becomes easier to:
-
-- Compare
-- Sort
-- Search
-- Reuse in your website
-
-You can think of this like a research table. The headings go across the top, then you add a new row for each attraction or visitor topic.
-
-Here is an example with two attractions:
-
-| Name | Description | Location | Source&nbsp;Type | Source URL |
-|-----------|-----------|-----------|-----------|-----------|
-| Edinburgh Castle | Historic castle with exhibitions, views, and Scottish history. | Castlehill, Edinburgh | Text | `https://www.visitscotland.com/` |
-| National Museum of Scotland | Museum with science, history, design, and nature exhibits. | Chambers Street, Edinburgh | Image | `https://www.nms.ac.uk/` |
-
-This makes the information easier to understand because you can clearly see what to write in each column and add more rows as you continue your research.
-
-
-Using the same fields for each item makes it easier for visitors to compare attractions and find useful information quickly.
-
-### :material-lightbulb-outline: What Makes Information Useful?
-
-Good information should be:
-
-- Accurate
-- Relevant to the visitor
-- Clear and easy to understand
-- Detailed enough to be helpful
-
-For example:
-
-❌ Edinburgh Castle – A castle.
-
-✅ Edinburgh Castle – Historic castle with exhibitions, city views, and important Scottish history.
-
-The second example gives visitors more useful information and helps them decide whether they would like to visit.
-
-A complete information model normally contains multiple rows, with one row for each attraction, location, service, or topic you want to include on your website.
-
----
-
-## :material-table-large: Task Two
-
-Use your website plan and wireframe to design an information model for the `Visit Edinburgh` website.
-
-**Start at Level One then keep working through the questions.**
-
-**Challenge yourself to see how far you can go.**
-
-=== "Level One"
-
-    Create an information model using **SOME** information that matches the topic of your website.
-
-=== "Level Two"
-
-    Create an information model with **ONE** complete row of data that matches the topic of your website.
-
-=== "Level Three"
-
-    Create a detailed information model with **TWO** complete rows of data that match the topic of your website and contain purposeful, informative data.
-
-=== "Level Four"
-
-    Create a complete information model with **SEVERAL** rows of data that match your website topic and are purposeful and informative.
-
-=== "Challenge Question"
-
-    Explain how your information model helps someone collect and compare information quickly.
-
----
-
 ## :material-comment-check-outline: Reflection
 
 Before moving on, make sure you can:
@@ -287,5 +219,5 @@ Before moving on, make sure you can:
 - Explain what a source is.
 - Describe why reliable sources matter.
 - Record sources for text and images.
-- Explain what an information model is.
-- Use the keywords source, reliable, information model, characteristic, and source URL correctly.
+- Rewrite useful facts in your own words.
+- Use the keywords source, reliable, source URL, credit, and rewrite correctly.

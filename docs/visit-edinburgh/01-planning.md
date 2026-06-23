@@ -1,4 +1,4 @@
-# :material-clipboard-list-outline: Lesson One - Planning
+# :material-clipboard-list-outline: 01 - Planning
 
 ## :dart: Learning Intention and Success Criteria
 
