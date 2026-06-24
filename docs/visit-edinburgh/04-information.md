@@ -81,7 +81,7 @@ A field stores one type of information, such as:
 - Description
 - Location
 - Source Type
-- Source URL
+- Where I found it URL
 
 Every row should contain information for the same fields.
 

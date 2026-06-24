@@ -1,4 +1,41 @@
-![Edinburgh city view](Images/edinburgh.png){ .homepage-image }
+<div id="visitEdinburghCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+  <ol class="carousel-indicators">
+    <li data-target="#visitEdinburghCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#visitEdinburghCarousel" data-slide-to="1"></li>
+    <li data-target="#visitEdinburghCarousel" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="Images/edinburgh.png" alt="Edinburgh city view">
+      <div class="carousel-caption">
+        <h5>Visit Edinburgh</h5>
+        <p>Plan a page that helps a real audience explore the city.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="Images/wireframe.png" alt="Website wireframe example">
+      <div class="carousel-caption">
+        <h5>Design the layout</h5>
+        <p>Use a wireframe to decide where content should go.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="Images/responsive-layout.svg" alt="Responsive website layout diagram">
+      <div class="carousel-caption">
+        <h5>Check different screens</h5>
+        <p>Make sure your page works clearly on more than one device.</p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#visitEdinburghCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#visitEdinburghCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 Image source: [Go Guides Edinburgh image](https://cdn.sanity.io/images/nxpteyfv/goguides/d07238c54e5686acf85827646dfbb6659cab2ce7-1600x1066.jpg)
 
