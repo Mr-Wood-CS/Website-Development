@@ -1,4 +1,4 @@
-# :material-book-search-outline: Lesson Three - Research
+# 03 - Research
 
 ## :dart: Learning Intention and Success Criteria
 
@@ -71,71 +71,35 @@
 
 ## :material-file-search-outline: Good Research Helps Visitors
 
-When building a website, you should not just collect lots of facts. You should choose the information that helps the visitor most.
+Do not collect every piece of information you find. Choose information that will help a visitor.
 
-For the `Visit Edinburgh` website, the audience is tourists who want useful trip information quickly. This means your research should be:
+For your `Visit Edinburgh` website, your visitors need quick, useful information. 
 
-- Relevant to the visitor
-- Easy to understand
-- From a trustworthy source
-- Recorded clearly so you can use it later
+Your research should be:
+
+- Useful
+- Clear
+- Trustworthy
+- Easy to find again
 
 When researching, ask yourself:
 
 | Question | What to Think About |
 |-----------|-----------|
-| Is the source suitable? | Check if the website is relevant, current, and likely to be trustworthy. |
-| What fact is useful? | Choose details that would help a visitor plan or enjoy their visit. |
-| Can I rewrite it? | Put facts into your own words so your website is clear and original. |
-| What source is needed? | Save the website name and URL so you can show where your information came from and find it again later if needed. |
+| Is the source good? | Is the website useful, up to date, and trustworthy? |
+| What fact helps the visitor? | Choose details that help someone plan their trip. |
+| Can I rewrite it? | Put the fact into your own words. |
+| What source do I need? | Save the website name and URL. |
 
----
+**Question 1**
 
-## :material-link-variant: Why Record a Source?
+What is a information?
 
-Recording sources is an important part of research.
+**Question 2**
 
-When you record the source URL, you can:
+What is one thing a visitor would want to know when they visit your website?
 
-- Find the information again later
-- Check that the information is accurate
-- Show where your research came from
 
-When you record where an image came from, you can:
-
-- Find the image again if needed
-- Check that it is suitable for your website
-- Give credit to the original source
-
-Good research is not collecting everything. It is choosing what helps the visitor.
-
----
-
-## :material-shield-check-outline: Choosing a Reliable Source
-
-Not all websites are equally trustworthy.
-
-Reliable websites often:
-
-- Belong to official organisations or businesses
-- Are regularly updated
-- Provide accurate contact information
-- Have clear, professional content
-- Match information found on other trusted websites
-
-For a tourism website, official visitor, museum, council, and attraction websites are usually more reliable than websites with unusual names, excessive advertisements, or unclear ownership.
-
-### :material-web-check: Why Source Quality Matters
-
-The quality of your sources affects the quality of your website.
-
-Reliable sources help visitors trust your information and make good decisions when planning a visit.
-
-Poor sources may contain mistakes, outdated information, or misleading facts. Using unreliable sources can make a website less useful and less professional.
-
-Good websites are built using good research.
-
----
 
 ## :material-pencil-outline: Rewriting Research
 
@@ -150,9 +114,14 @@ Instead, read the information, choose the useful facts, and rewrite them in your
 
 For example:
 
-| Source Fact | Rewritten for a Visitor Website |
+--Original Information--
+
+Edinburgh Castle is located on Castle Rock and is one of Scotland's most famous historic sites.
+
+
+| Rewritten for a Visitor Website |
 |-----------|-----------|
-| Edinburgh Castle is located on Castle Rock and is one of Scotland's most famous historic sites. | Edinburgh Castle sits high on Castle Rock and is one of the most famous historic places to visit in Scotland. |
+|  | Edinburgh Castle sits high on Castle Rock and is one of the most famous historic places to visit in Scotland. |
 | The National Museum of Scotland has collections about nature, science, technology, art, design, and world cultures. | The National Museum of Scotland has exhibitions about nature, science, technology, art, design, and cultures from around the world. |
 
 ---
@@ -164,26 +133,6 @@ Answer these research questions before you build your information model in the n
 **Start at Level One then keep working through the task.**
 
 **Challenge yourself to see how far you can go.**
-
-=== "Level One"
-
-    **Question 1**
-
-    What is a source?
-
-    **Question 2**
-
-    Name one fact a visitor would need to know for your website.
-
-=== "Level Two"
-
-    **Question 3**
-
-    Give one sign that a website source is trustworthy.
-
-    **Question 4**
-
-    Why should you record where an image came from?
 
 === "Level Three"
 
